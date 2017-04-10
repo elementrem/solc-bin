@@ -1,0 +1,18 @@
+{
+  "builds": [
+    {
+      "path": "soljson-v0.4.10+commit.610c4b0.js",
+      "version": "0.4.10",
+      "build": "commit.610c4b0",
+      "longVersion": "0.4.10+commit.610c4b0",
+      "keccak256": "",
+      "urls": [
+        ""
+      ]
+    }
+  ],
+  "releases": {
+    "0.4.10": "soljson-v0.4.10+commit.610c4b0.js"
+  },
+  "latestRelease": "0.4.10"
+}
