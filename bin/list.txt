@@ -1,1 +1,2 @@
 soljson-v0.4.10+commit-610c4b0.js
+soljson-v0.4.18+commit.01dcd70.js
